@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/vladislav/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MyProjects/MDArray/cmake-build-debug",
+	"dir-cur-src" : "/home/vladislav/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MyProjects/MDArray",
+	"dir-top-bld" : "/home/vladislav/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MyProjects/MDArray/cmake-build-debug",
+	"dir-top-src" : "/home/vladislav/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MyProjects/MDArray",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/vladislav/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MyProjects/MDArray/cmake-build-debug/CMakeFiles/MDArray.dir"
+}

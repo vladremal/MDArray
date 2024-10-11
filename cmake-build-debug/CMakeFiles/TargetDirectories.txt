@@ -1,0 +1,3 @@
+/home/vladislav/Документы/MyProjects/MDArray/cmake-build-debug/CMakeFiles/MDArray.dir
+/home/vladislav/Документы/MyProjects/MDArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vladislav/Документы/MyProjects/MDArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
